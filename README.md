@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<a href = "http://imgur.com/NLCAJQO"> Video Walkthrough </a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="NLCAJQO"><a href="//imgur.com/NLCAJQO">Tip Calculator App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
