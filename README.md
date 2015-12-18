@@ -17,13 +17,14 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/NLCAJQO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href = "http://imgur.com/NLCAJQO" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+The tutorial made the process fairly simple.
 
 ## License
 
