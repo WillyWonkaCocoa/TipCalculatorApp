@@ -8,7 +8,7 @@ Submitted by: William Gao
 
 Time spent: 4 hours spent in total
 
-## Class of 2019 at UMBC: major in Computer Engineering
+## Class of 2019 at UMBC: Computer Engineering Major
 
 The following **required** functionality is complete:
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
